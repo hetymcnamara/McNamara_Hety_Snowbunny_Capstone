@@ -39,7 +39,7 @@ I started  with user authentication - this took the most time to figure out and 
 
 ### 2. API
 
-Next I created a data file to supply more information to the Ski and resort coniditons API I used from RapidAPI.
+Next I created a data file to filter and supply more information to the Ski and resort coniditons API I used from RapidAPI.
 
 ### 3. Back-end
 
@@ -69,5 +69,5 @@ Next I created a data file to supply more information to the Ski and resort coni
 * Pico.css
 * RapidAPI
 * VS code
-* Nelify - frontend deployment
+* Netlify - frontend deployment
 * Render - backend deployment
